@@ -111,7 +111,7 @@ function esPar(num) {
   // De lo contrario, devuelve "false"
   // Tu código:
   let validacion = num % 2;
-  if (validacion == 0) {
+  if (validacion === 0) {
     return true;
   }
   return false;
