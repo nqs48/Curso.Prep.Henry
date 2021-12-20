@@ -1,0 +1,14 @@
+# Homework: Javascript III
+
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Arrays
+
+
+- Arrays: Son arreglos de datos, estos datos tiene una posición definida, pueden eliminarse datos, añadirse datos y los arreglos pueden tener varias dimensiones (así como el juego de triqui), que vendría siendo un arreglo de 2 dimensiones. Algo importante a tener en cuenta es que las posiciones empiezan desde 0 y finalizan en n-1 
+
+  >>Array de 1 dimensión: La forma mas básica de explicarse un array 1 dimensión seria como la fila de compras que ves en el centro comercial, cada persona tiene un lugar o posición en esta fila, recuerda que las posiciones empiezan desde 0.
+
+ 
