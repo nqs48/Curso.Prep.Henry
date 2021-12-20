@@ -1,0 +1,19 @@
+## Instrucciones
+---
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+* `for`
+* `&&`, `||`, `!`
+
+
+<<EXPLICACION>>
+
+- For: Podría explicarse cómo una caja misteriosa que ejecutara una acción repetidamente hasta que se cumpla alguna condición que le hayas definido inicialmente. Recuerda que este ciclo podría ser infinito o nunca pararía si tu condición o limite no se cumple.
+
+- Logica Booleana: Existen varias formas de darle superpoderes a tus expresiones de condición, entre ellas están: "y", "o" ,"no".
+
+|| : En nuestro lenguaje seria como decir "o", un ejemplo general podría ser: en verano después de clases podre comparte un Xbox "o" un Play Station,("Xbox" || "Play Station").Si en tus gustos están estas dos consolas y cumples con al menos una de las dos condiciones la compra se realizaría, en este caso al cumplirse una de las condiciones podrás ejecutar esta acción. También se vale si se cumplen las dos condiciones, la unidad forma en que no se ejecutara la acción, en este caso la compra seria si ninguna de estas condiciones se cumple.
+ 
+&& : En nuestro lenguaje seria como decir "y", un ejemplo general podría ser: para jugar online en una app movil, necesito un teléfono "y" internet ("Telefono" && "Internet").Si no cuento con alguna de estas condiciones no podría jugar online, en este caso deben cumplirse todas las condiciones o no podrás ejecutar esta acción.
+
+! : En nuestro lenguaje seria como "no", es un poco mas simple que los otros ya que la condición se niega, un ejemplo claro seria  ==> !(menor 10), al ver la condición dice menor de 10, pero al anteponerle el símbolo de negación quiere decir NO menor de 10. 
